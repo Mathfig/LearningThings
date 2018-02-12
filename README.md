@@ -4,7 +4,7 @@ This is a collection of some of my academic projects and workshops I've hosted.
 
 ## NC PACE Infographic
 
-I produced an infographic for the organization NC PACE. Something pretty as opposed to the super quantitative stuff from before.
+I produced an infographic for the organization NC PACE. Gotta take care of the emeritus professors somehow.
 Here's their website:
 
 * [NC PACE](http://ncpace.org/)
