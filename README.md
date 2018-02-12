@@ -9,6 +9,13 @@ Here's their website:
 
 * [NC PACE](http://ncpace.org/)
 
+## Wolfram Projects
+
+I spent a few weeks with Wolfram, learned a lot, and got two decent small projects out of it. The first uses the Wolfram Language to analyze a notable person's Twitter account while the other picks out a river's inherent structure from road/satellite images. 
+
+* [Big-T's Twitter](http://community.wolfram.com/groups/-/m/t/1135996?p_p_auth=H2ZkqiXU)
+* [Rivers and Basic Image Processing](http://community.wolfram.com/groups/-/m/t/1135996?p_p_auth=H2ZkqiXU)
+
 ## Numerical Weather Prediction
 
 A week-long SAMSI project where I worked with other undergraduates to implemement a localized LETKF for the Python package DATeS. Our advisor was Ahmed Attia from Virginia Tech.
