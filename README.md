@@ -2,6 +2,13 @@
 
 This is a collection of some of my academic projects and workshops I've hosted.
 
+## NC PACE Infographic
+
+I produced an infographic for the organization NC PACE. Something pretty as opposed to the super quantitative stuff from before.
+Here's their website:
+
+[NC PACE](http://ncpace.org/)
+
 ## Numerical Weather Prediction
 
 A week-long SAMSI project where I worked with other undergraduates to implemement a localized LETKF for the Python package DATeS.
