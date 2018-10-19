@@ -2,6 +2,10 @@
 
 This is a collection of some of my academic projects and workshops I've hosted.
 
+## Impact of Spatial Information on Kalman Filtering Prediction
+
+During a Data Assimilation course I took at SAMSI, I worked with two grad students to design and implement several DA models on simulated CMAQ output and observational data with the purpose of accurately predicting PM 2.5 concentrations at "new" sensor locations.
+
 ## NC PACE Infographic
 
 I produced an infographic for the organization NC PACE. Gotta take care of the emeritus professors somehow.
@@ -27,3 +31,4 @@ Here's the paper for the Kalman Filter and the website for DATeS:
 ## Regular Latin Squares
 
 A summer-long Combinatorics REU where I (with much help of my advisor Carl Mummert from Marshall University) enumerated a family of latin squares and produced a lower bound for the number of mates that a latin square of a given size can have.
+
