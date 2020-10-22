@@ -32,5 +32,5 @@ Here's the paper for the Kalman Filter and the website for DATeS:
 
 ## Regular Latin Squares
 
-A summer-long Combinatorics REU where I (with much help of my advisor Carl Mummert from Marshall University) enumerated a family of latin squares and produced a lower bound for the number of mates that a latin square of a given size can have.
+A summer Combinatorics REU where I (with much help of my advisor Carl Mummert from Marshall University) enumerated a family of latin squares and produced a lower bound for the number of mates that a latin square of a given size can have.
 
